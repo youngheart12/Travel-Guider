@@ -1,0 +1,14 @@
+------------------------ Flights to GOA--------------------------
+
+From -------------------->>>> To---------------------------------->>Fares
+1.Mumbai                       Goa                               RS3524/-
+
+2.Chennai                      Goa                               RS5944/-
+
+3.Bangalore                    Goa                               RS6940/-
+
+4.Patna                        Goa                               RS3100/-
+
+5.New Delhi                    Goa                               RS2800/-
+
+6.Kanpur                       Goa                               RS3944/-

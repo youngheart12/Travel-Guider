@@ -1,0 +1,15 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ From                                  To                          Distance
+New Delhi railway station (NDLS)      India Gate                     30
+
+Old Delhi railway station             Qutab Minar                    40
+
+Hazrat Nizamuddin railway station     Parliament                     50
+
+Anand Vihar Terminal railway station  CONAUGHT PLACE                 10
+
+Delhi Sarai Rohilla railway station   Lakshman vatika                40
+
+Delhi Shahdara  railway station       Water Park                     15
+

@@ -1,0 +1,15 @@
+------------------------ --------------------------------------------------------------
+                                 Flights to Shimla
+
+From -------------------->>>> To---------------------------------->>Fares
+1.Mumbai                      Shimla                               RS3944/-
+
+2.Chennai                     Shimla                               RS9944/-
+
+3.Bangalore                   Shimla                               RS8944/-
+
+4.Patna                       Shimla                               RS3500/-
+
+5.Goa                         Shimla                               RS2800/-
+
+6.Kanpur                      Shimla                                RS3944/-

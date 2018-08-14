@@ -1,0 +1,16 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FROM                                        To                          Distance
+1.Golden Temple                        Jalandhar Railway Station         180km
+
+2.Jallianwala Bagh                    Kapurtahala Railway Station        185km
+
+3.Akal Takht                           Phagwara                          95km
+
+4.Tara Taran Sahib                     Hoshiarpur                        70km
+
+5.Maharaja Ranjit Singh Panorama       Ludhania                          120km
+
+6.Wagah Border                         Verka                             60km
+
+7.Maharaja Ranjit Singh Museum         Patiala                           45km

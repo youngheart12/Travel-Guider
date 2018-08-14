@@ -1,0 +1,13 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ From                                  To                          Distance
+1.Summer Hill Railway station         Ridge                       60km
+2.Shimla Airport                      Mall Road                   40km
+3.Tara Devi Railway station           Kufri                       30km
+4.Shimla Airport                      Himachal Muesum             20km
+3.Sahogi Railway station              Hill Station                45km
+4.Shimla  Airport                     Qutb Minar                  35km
+3.Kathlegeet Railway station          Parliamnet                  30km
+4.Shimla Airport                      Shimla Gen                   40km
+
+
